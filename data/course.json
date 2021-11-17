@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2d368b93-5be6-f433-24f0-3825db5ad9c7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Competitive Decision-Making and Negotiation",
+  "course_description": "This course aims to develop negotiation skills by active participation in a variety of negotiation settings, and a series of integrative bargaining cases between two and more than two parties over multiple issues. Ethical dilemmas in negotiation are discussed at various times throughout the course.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.067",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
